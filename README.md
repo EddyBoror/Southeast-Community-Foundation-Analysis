@@ -5,6 +5,9 @@ Welcome to my comprehensive data analysis project, which is focused on the [Sout
 
 <img src="https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/blob/main/tabular.jpg" width="500" height="500" />
 
+<img src="https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/blob/main/SouthEast%20Dashaboard%20Screenshot.jpg" width="800" height="500" />
+
+
 
 
 The interactive dashboard is an easy-to-use tool for examining math and ELA skills in grades 1 through 5. Quickly flipping between the academic years 2022 and 2023, the KPI table is displayed in the upper left corner, allowing users to dynamically change the ELA and Math Stack bar charts for a focused examination of academic skills. Thanks to this dynamic feature, Users will receive a customized and detailed performance view. 
