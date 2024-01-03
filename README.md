@@ -2,6 +2,19 @@
 
 Welcome to my comprehensive data analysis project, which is focused on the [Southeast Community Foundations](https://secfoundation.org). The foundation provides high-dosage sessions, individualized learning plans, and the priceless offer of free tutoring services for kindergarten through eighth-grade students. These components serve as the core of the foundation's dedication to educational improvement, which aims to strengthen and raise the community of both Southgate and Huntington Park by providing focused assistance. 
 
+### Tools
+
+- Excel: Data Source
+- Tableau: Building interactive dashboards for comprehensive data representation.
+
+### Data Cleaning/ Preparation
+
+In the initial data preparation phase, I performed the following tasks with Excel:
+
+1. Data loading and inspection.
+2. Handling missing values.
+3. Data cleaning and formatting
+
 ### Tabular Dataset
 
 <img src="https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/blob/main/tabular.jpg" width="500" height="700" />
