@@ -62,8 +62,7 @@ According to Mr. Tafoya's important information, which offers insightful backgro
 
 ### Challenges and Opportunities:
 
-The findings highlight challenges in maintaining consistent student engagement, especially when transitioning from online to in-person tutoring.
-Understanding the reasons behind the drop in averages in 2023 offers opportunities for interventions, like addressing scheduling conflicts or exploring alternative modes of tutoring to maintain or improve student performance.
+The results show how difficult it may be to keep students engaged over time, particularly when switching from online to in-person tutoring. Recognizing the causes of the 2023 average decline presents chances for solutions, such as resolving schedule issues or looking into different tutoring options, to maintain or improve the performance of students.
 
 <br>
 
