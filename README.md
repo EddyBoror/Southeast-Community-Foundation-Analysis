@@ -38,29 +38,25 @@ In the initial data preparation phase, I performed the following tasks with Exce
 
 ### 2022 vs. 2023 Trends:
 
-1. The chart indicates a shift in the overall trend between 2022 and 2023.
-   Notably, the average diagnostic levels for grades 1 to 5 were higher in 2022 compared to 2023.
+1. The line chart shows that between 2022 and 2023, the general tendency will change. Particularly, in 2022 compared to 2023, the average diagnostic levels for grades 1 through 5 were higher.
 
 <br>
 
 ### Influence of Online Tutoring in 2022:
 
-The higher averages in 2022 can be attributed to the online tutoring program due to COVID-19 restrictions in the LAUSD.
-The online format increased student engagement or focus, leading to higher diagnostic levels during that period.
+The higher averages in 2022 can be attributed to the online tutoring program due to COVID-19 restrictions in the LAUSD. The online format increased student engagement or focus, leading to higher diagnostic levels during that period.
 
 <br>
 
 ### Impact of COVID-19 Restrictions:
 
-The shift in 2023 suggests changes in the learning environment.
-With COVID-19 restrictions lifted, a broader range of factors, such as in-person tutoring, extracurricular events, or changes in parental involvement, might influence students.
+Because of COVID-19 limits in the LAUSD, the higher averages in 2022 can be linked to the shift in online tutoring programs. During that time, the online approach improved student focus and engagement, which raised diagnostic scores.
 
 <br>
 
 ### Parental Engagement in 2023:
 
-Mr. Tafoya's insight provides valuable context, indicating that in 2023, some students are withdrawn from tutoring due to various events like sports, family commitments, or parental preferences.
-This underscores the importance of considering external factors beyond the learning environment, such as parental decisions impacting student participation.
+According to Mr. Tafoya's important information, which offers insightful background, some students missed tutoring in 2023 due to various circumstances, including sports, family obligations, or parental choices. This highlights how crucial it is to consider outside variables that affect learning beyond the classroom, like parental choices that affect students' involvement.
 
 <br>
 
