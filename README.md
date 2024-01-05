@@ -32,7 +32,7 @@ In the initial data preparation phase, I performed the following tasks with Exce
 
 # Findings
 
-<img src="https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/blob/main/Photos/avg_line_chart.jpg" width="1000" height="700" />
+<img src="https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/blob/main/Photos/avg_line_chart.jpg" width="1200" height="700" />
 
 <br>
 
