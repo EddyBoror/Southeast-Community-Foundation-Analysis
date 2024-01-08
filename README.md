@@ -19,8 +19,8 @@ Welcome to my comprehensive data analysis project, which is focused on the [Sout
 In the initial data preparation phase, I performed the following tasks with Excel:
 
 1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting
+2. Handling minimal missing values.
+3. Data formatting and merging 2022 and 2023 information
 
 <br>
 
