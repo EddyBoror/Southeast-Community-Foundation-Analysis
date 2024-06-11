@@ -38,6 +38,8 @@ In the initial data preparation phase, I performed the following tasks with Exce
 
 ### Influence of Online Tutoring in 2022:
 
+![image](https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/assets/61037075/f6fca8c7-a147-4d99-88ec-37abf3578d24)
+
 The higher averages in 2022 can be attributed to the online tutoring program due to COVID-19 restrictions in the LAUSD. The online format increased student engagement or focus, leading to higher diagnostic levels during that period.
 
 <br>
