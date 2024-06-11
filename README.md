@@ -46,6 +46,8 @@ The higher averages in 2022 can be attributed to the online tutoring program due
 
 ### Impact of COVID-19 Restrictions:
 
+![image](https://github.com/EddyBoror/Southeast-Community-Foundation-Analysis/assets/61037075/4f4e9302-d9c0-4477-9114-152840d25774)
+
 Because of COVID-19 limits in the LAUSD, the higher averages in 2022 can be linked to the shift in online tutoring programs. During that time, the online approach improved student focus and engagement, which raised diagnostic scores.
 
 <br>
